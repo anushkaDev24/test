@@ -4,7 +4,7 @@ import axios from 'axios';
 
 
 const Signup = () => {
-  const navigate = useNavigate(); 
+ 
   const [username , setUsername] = useState('') 
   const [password , setPassword] = useState('') 
 
